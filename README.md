@@ -4,6 +4,6 @@ A desktop application that allows teachers to allocate grade to students by ente
 
 Built using
 ________________
-Netbeans
-Scene Builder
-Derby
+### Netbeans
+### Scene Builder
+### Derby
